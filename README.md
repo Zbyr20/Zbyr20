@@ -1,56 +1,76 @@
 <div align="center">
 
-# Merhaba, ben Zübeyir 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4B8D1&height=190&section=header&text=Merhaba,%20ben%20Z%C3%BCbeyir&fontSize=40&fontColor=7A3E65&fontAlignY=40&animation=fadeIn" alt="Merhaba, ben Zübeyir" />
 
-**Yazılım Mühendisliği öğrencisi · Siber güvenlik ve full-stack geliştirme meraklısı**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=B565A7&center=true&vCenter=true&width=520&lines=Yaz%C4%B1l%C4%B1m+M%C3%BChendisli%C4%9Fi+%C3%B6%C4%9Frencisi+%F0%9F%8E%93;Siber+g%C3%BCvenlik+merakl%C4%B1s%C4%B1+%F0%9F%94%90;Full-stack+yolunda+ilerliyorum+%F0%9F%8C%90;Her+g%C3%BCn+biraz+daha+%C3%B6%C4%9Freniyorum+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-FFD6E5?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-FFE3C2?style=for-the-badge&logo=openjdk&logoColor=D35400)
+![TypeScript](https://img.shields.io/badge/TypeScript-D6E6FF?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF4B8?style=for-the-badge&logo=javascript&logoColor=B7950B)
+![React](https://img.shields.io/badge/React-D4F3FA?style=for-the-badge&logo=react&logoColor=0E8FA8)
+![Cisco](https://img.shields.io/badge/Cisco-D9ECFF?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
 </div>
 
 ---
 
-## 🧑‍💻 Hakkımda
+## 🌸 Hakkımda
 
-Fırat Üniversitesi'nde (Elazığ) Yazılım Mühendisliği okuyorum. Odak alanlarım **siber güvenlik** ve **full-stack web geliştirme**; bunların yanında oyun geliştirmeye de ilgi duyuyorum. Öğrendiklerimi not alarak, laboratuvar çözümleri yazarak ve küçük projeler üreterek ilerliyorum.
+Selam! Ben Zübeyir. Fırat Üniversitesi'nde (Elazığ) **Yazılım Mühendisliği** okuyorum. 🎓
 
-## 🎓 Sertifikalar
+Kalbim **siber güvenlik** ve **full-stack web geliştirme** için atıyor; oyun geliştirmeye de ayrı bir sempatim var. 🎮
+Öğrendiklerimi not alıyor, lab çözümleri yazıyor ve küçük projelerle pekiştiriyorum. Yavaş ama sağlam adımlarla ilerliyorum. 🐢✨
 
-- Cisco Certified CyberOps Associate
-- Cisco Certified Network Associate (CCNA)
+## 🎀 Sertifikalarım
 
-## 🛠️ Ne ile uğraşıyorum?
+- 🔐 **Cisco Certified CyberOps Associate**
+- 🌐 **Cisco Certified Network Associate (CCNA)**
 
-- 🔐 **Siber güvenlik:** web uygulama güvenliği, TLS/başlık denetimleri, PortSwigger laboratuvarları, güvenlik denetimi (security audit) hizmetleri
-- 🌐 **Web geliştirme:** TypeScript, JavaScript, React/Vite tabanlı projeler
-- 🐍 **Programlama:** Python, Java, TypeScript; algoritma pratiği için LeetCode
-- 🎮 **Oyun geliştirme:** hobi olarak küçük denemeler
-- ☁️ **Bulut:** Azure üzerinde yapay zekâ sistemlerinin dağıtımını keşfediyorum
+## 🍓 Şu sıralar neyle uğraşıyorum?
 
-## 📂 Öne çıkan projeler
+- 🔎 Web uygulama güvenliği, TLS ve güvenlik başlığı denetimleri
+- 🧪 PortSwigger laboratuvarları ve write-up'lar
+- ☁️ Azure ile yapay zekâ sistemlerinin dağıtımını keşfetmek
+- 💻 TypeScript, React ve Vite ile web projeleri
+- 🧩 LeetCode ile algoritma pratiği
 
-| Proje | Açıklama |
-| --- | --- |
-| [AI-Security-Analyzer](https://github.com/Zbyr20/AI-Security-Analyzer) | Python ile geliştirilen yapay zekâ destekli güvenlik analiz aracı |
-| [TLS-Audit Aracı](https://github.com/Zbyr20/TLS-Audit-Arac-v0.2-oklu-domain-deste-i) | Birden fazla sitenin TLS yapılandırmasını ve güvenlik başlıklarını aynı anda denetleyen Python aracı |
-| [portswigger-writeups](https://github.com/Zbyr20/portswigger-writeups) | PortSwigger Web Security Academy lab çözümleri ve çalışma notlarım |
-| [LeetCode-WriteUps](https://github.com/Zbyr20/LeetCode-WriteUps) | LeetCode soru çözümleri ve açıklamaları |
-| [StepByStepDev](https://github.com/Zbyr20/StepByStepDev) | Yazılım öğrenme yolculuğumdan notlar, örnekler ve ilerleme günlüğü |
-| [BeCyber](https://github.com/Zbyr20/BeCyber) | Siber güvenlik odaklı web projesi |
-| [Okul-ncesiEgitmeni](https://github.com/Zbyr20/Okul-ncesiEgitmeni) | Küçüklere temel bilgileri öğretmeyi amaçlayan eğitim uygulaması |
-| [HandMouse](https://github.com/Zbyr20/HandMouse) | Elle veya gözle fare hareket ettirilen eğlenceli bir oyun |
+## 🌷 Öne çıkan projelerim
 
-## 🌍 Portfolyo
+| | Proje | Açıklama |
+| :-: | --- | --- |
+| 🛡️ | [AI-Security-Analyzer](https://github.com/Zbyr20/AI-Security-Analyzer) | Yapay zekâ destekli güvenlik analiz aracı |
+| 🔒 | [TLS-Audit Aracı](https://github.com/Zbyr20/TLS-Audit-Arac-v0.2-oklu-domain-deste-i) | Birden fazla sitenin TLS ve güvenlik başlıklarını aynı anda denetler |
+| 🧪 | [portswigger-writeups](https://github.com/Zbyr20/portswigger-writeups) | PortSwigger lab çözümleri ve çalışma notlarım |
+| 🧩 | [LeetCode-WriteUps](https://github.com/Zbyr20/LeetCode-WriteUps) | LeetCode çözümleri ve yaklaşım notları |
+| 📒 | [StepByStepDev](https://github.com/Zbyr20/StepByStepDev) | Yazılım öğrenme günlüğüm |
+| 🐍 | [Python](https://github.com/Zbyr20/Python) | Python alıştırmaları ve küçük scriptler |
+| 🧸 | [Okul-ncesiEgitmeni](https://github.com/Zbyr20/Okul-ncesiEgitmeni) | Küçüklere temel bilgileri öğreten eğitim uygulaması |
+| 🖐️ | [HandMouse](https://github.com/Zbyr20/HandMouse) | Elle veya gözle fare hareket ettirilen eğlenceli oyun |
 
-Beni ve çalışmalarımı daha yakından görmek için portfolyo sitemi ziyaret edebilirsin: **[portfolyom-rust.vercel.app](https://portfolyom-rust.vercel.app)**
+## 📊 GitHub istatistiklerim
 
-## 📫 İletişim
+<div align="center">
 
-- GitHub: [@Zbyr20](https://github.com/Zbyr20)
-- Güvenlik denetimi ve yazılım işleri için Fiverr üzerinden de ulaşabilirsin.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zbyr20&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=B565A7&icon_color=F4A6C9&text_color=6B4C6B" alt="GitHub istatistikleri" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zbyr20&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=B565A7&text_color=6B4C6B" alt="En çok kullanılan diller" />
+
+</div>
+
+## 🌍 Beni daha yakından tanımak istersen
+
+- 🌐 Portfolyo: **[portfolyom-rust.vercel.app](https://portfolyom-rust.vercel.app)**
+- 💼 Güvenlik denetimi ve yazılım işleri için Fiverr üzerinden de ulaşabilirsin.
+- 🐙 GitHub: [@Zbyr20](https://github.com/Zbyr20)
 
 ---
 
 <div align="center">
 
-⭐ Beğendiğin bir projem olursa yıldız bırakmayı unutma!
+⭐ Beğendiğin bir projem olursa küçük bir yıldız bırak, çok mutlu eder! 💖
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4B8D1&height=100&section=footer" alt="footer" />
 
 </div>
