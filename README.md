@@ -1,20 +1,56 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# Merhaba, ben Zübeyir 👋
+
+**Yazılım Mühendisliği öğrencisi · Siber güvenlik ve full-stack geliştirme meraklısı**
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🧑‍💻 Hakkımda
 
-View your app in AI Studio: https://ai.studio/apps/3eaf7413-ab7d-4647-a1e9-ae0c1aa393af
+Fırat Üniversitesi'nde (Elazığ) Yazılım Mühendisliği okuyorum. Odak alanlarım **siber güvenlik** ve **full-stack web geliştirme**; bunların yanında oyun geliştirmeye de ilgi duyuyorum. Öğrendiklerimi not alarak, laboratuvar çözümleri yazarak ve küçük projeler üreterek ilerliyorum.
 
-## Run Locally
+## 🎓 Sertifikalar
 
-**Prerequisites:**  Node.js
+- Cisco Certified CyberOps Associate
+- Cisco Certified Network Associate (CCNA)
 
+## 🛠️ Ne ile uğraşıyorum?
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 🔐 **Siber güvenlik:** web uygulama güvenliği, TLS/başlık denetimleri, PortSwigger laboratuvarları, güvenlik denetimi (security audit) hizmetleri
+- 🌐 **Web geliştirme:** TypeScript, JavaScript, React/Vite tabanlı projeler
+- 🐍 **Programlama:** Python, Java, TypeScript; algoritma pratiği için LeetCode
+- 🎮 **Oyun geliştirme:** hobi olarak küçük denemeler
+- ☁️ **Bulut:** Azure üzerinde yapay zekâ sistemlerinin dağıtımını keşfediyorum
+
+## 📂 Öne çıkan projeler
+
+| Proje | Açıklama |
+| --- | --- |
+| [AI-Security-Analyzer](https://github.com/Zbyr20/AI-Security-Analyzer) | Python ile geliştirilen yapay zekâ destekli güvenlik analiz aracı |
+| [TLS-Audit Aracı](https://github.com/Zbyr20/TLS-Audit-Arac-v0.2-oklu-domain-deste-i) | Birden fazla sitenin TLS yapılandırmasını ve güvenlik başlıklarını aynı anda denetleyen Python aracı |
+| [portswigger-writeups](https://github.com/Zbyr20/portswigger-writeups) | PortSwigger Web Security Academy lab çözümleri ve çalışma notlarım |
+| [LeetCode-WriteUps](https://github.com/Zbyr20/LeetCode-WriteUps) | LeetCode soru çözümleri ve açıklamaları |
+| [StepByStepDev](https://github.com/Zbyr20/StepByStepDev) | Yazılım öğrenme yolculuğumdan notlar, örnekler ve ilerleme günlüğü |
+| [BeCyber](https://github.com/Zbyr20/BeCyber) | Siber güvenlik odaklı web projesi |
+| [Okul-ncesiEgitmeni](https://github.com/Zbyr20/Okul-ncesiEgitmeni) | Küçüklere temel bilgileri öğretmeyi amaçlayan eğitim uygulaması |
+| [HandMouse](https://github.com/Zbyr20/HandMouse) | Elle veya gözle fare hareket ettirilen eğlenceli bir oyun |
+
+## 🌍 Portfolyo
+
+Beni ve çalışmalarımı daha yakından görmek için portfolyo sitemi ziyaret edebilirsin: **[portfolyom-rust.vercel.app](https://portfolyom-rust.vercel.app)**
+
+## 📫 İletişim
+
+- GitHub: [@Zbyr20](https://github.com/Zbyr20)
+- Güvenlik denetimi ve yazılım işleri için Fiverr üzerinden de ulaşabilirsin.
+
+---
+
+<div align="center">
+
+⭐ Beğendiğin bir projem olursa yıldız bırakmayı unutma!
+
+</div>
